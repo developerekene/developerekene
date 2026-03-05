@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects, React and React Native Projects**
 
-- 🤝 I’m looking for help with **Working on any open source AI project**
+- 🤝 I’m looking for help with **Learning Robotics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/developerekene](https://github.com/developerekene)
 
