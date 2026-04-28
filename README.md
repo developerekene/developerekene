@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi 👋, I'm Ekenedilichukwu Okoli</h1>
-  <p><b>Senior Frontend & Mobile Engineer | 7+ Years Experience</b></p>
+  <p><b>Senior Frontend & Mobile Engineer | 6+ Years Experience</b></p>
 
   <p>
-    <a href="https://twitter.com/developerekene"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
     <a href="https://www.linkedin.com/in/ekenedilichukwu-okoli-7615591b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/developerekene"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
     <a href="mailto:seniordevekene@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.ekenedilichukwu.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   </p>
